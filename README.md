@@ -23,13 +23,13 @@ Service.
 
 [1]: https://developer.android.com/reference/android/service/chooser/package-summary.html
 [2]: https://developer.android.com/reference/android/service/chooser/ChooserTargetService.html
-[3]: https://developer.android.com/reference/android/service/chooser/ChooserTargetService.html#onGetChooserTargets(android.content.ComponentName, android.content.IntentFilter)
+[3]: https://developer.android.com/reference/android/service/chooser/ChooserTargetService.html#onGetChooserTargets(android.content.ComponentName%2C%20android.content.IntentFilter)
 
 Pre-requisites
 --------------
 
 - Android SDK v23
-- Android Build Tools v23.0.0
+- Android Build Tools v23.0.1
 - Android Support Repository
 
 Screenshots
